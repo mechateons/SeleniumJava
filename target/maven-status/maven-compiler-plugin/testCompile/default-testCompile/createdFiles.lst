@@ -1,0 +1,5 @@
+pages\DashboardPage.class
+utils\waits.class
+logging\LayoutDesign.class
+tests\LoginTest.class
+pages\LoginPage.class
